@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Listboard/static/css/main.d9a3d876.chunk.css",
-    "main.js": "/Listboard/static/js/main.008023d4.chunk.js",
-    "main.js.map": "/Listboard/static/js/main.008023d4.chunk.js.map",
-    "runtime-main.js": "/Listboard/static/js/runtime-main.7d766ce0.js",
-    "runtime-main.js.map": "/Listboard/static/js/runtime-main.7d766ce0.js.map",
-    "static/js/2.9e1ab27e.chunk.js": "/Listboard/static/js/2.9e1ab27e.chunk.js",
-    "static/js/2.9e1ab27e.chunk.js.map": "/Listboard/static/js/2.9e1ab27e.chunk.js.map",
-    "static/js/3.e29ef83d.chunk.js": "/Listboard/static/js/3.e29ef83d.chunk.js",
-    "static/js/3.e29ef83d.chunk.js.map": "/Listboard/static/js/3.e29ef83d.chunk.js.map",
-    "index.html": "/Listboard/index.html",
-    "static/css/main.d9a3d876.chunk.css.map": "/Listboard/static/css/main.d9a3d876.chunk.css.map",
-    "static/js/2.9e1ab27e.chunk.js.LICENSE.txt": "/Listboard/static/js/2.9e1ab27e.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/Listboard/static/media/logo.103b5fa1.svg"
+    "main.css": "/Listboard/tree/master/static/css/main.d9a3d876.chunk.css",
+    "main.js": "/Listboard/tree/master/static/js/main.008023d4.chunk.js",
+    "main.js.map": "/Listboard/tree/master/static/js/main.008023d4.chunk.js.map",
+    "runtime-main.js": "/Listboard/tree/master/static/js/runtime-main.1d89a77f.js",
+    "runtime-main.js.map": "/Listboard/tree/master/static/js/runtime-main.1d89a77f.js.map",
+    "static/js/2.9e1ab27e.chunk.js": "/Listboard/tree/master/static/js/2.9e1ab27e.chunk.js",
+    "static/js/2.9e1ab27e.chunk.js.map": "/Listboard/tree/master/static/js/2.9e1ab27e.chunk.js.map",
+    "static/js/3.e29ef83d.chunk.js": "/Listboard/tree/master/static/js/3.e29ef83d.chunk.js",
+    "static/js/3.e29ef83d.chunk.js.map": "/Listboard/tree/master/static/js/3.e29ef83d.chunk.js.map",
+    "index.html": "/Listboard/tree/master/index.html",
+    "static/css/main.d9a3d876.chunk.css.map": "/Listboard/tree/master/static/css/main.d9a3d876.chunk.css.map",
+    "static/js/2.9e1ab27e.chunk.js.LICENSE.txt": "/Listboard/tree/master/static/js/2.9e1ab27e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/Listboard/tree/master/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d766ce0.js",
+    "static/js/runtime-main.1d89a77f.js",
     "static/js/2.9e1ab27e.chunk.js",
     "static/css/main.d9a3d876.chunk.css",
     "static/js/main.008023d4.chunk.js"
